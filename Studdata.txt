@@ -1,0 +1,14 @@
+Aishwarya,8A
+Divi,8A
+Ross,10C
+Rachel,10B
+Phoebe,9A
+Joey,9C
+Monica,11A
+Chandler12B
+Daemon,11C
+Bonnie,11C
+Stefan,8C
+Klaus,9A
+Mike,12A
+Gunther,7A
